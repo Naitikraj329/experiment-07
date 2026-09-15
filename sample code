@@ -1,0 +1,8 @@
+unzip a4-image-arranger.zip
+cd a4-image-arranger
+git init
+git add .
+git commit -m "Initial commit: A4 image arranger"
+git branch -M main
+git remote add origin https://github.com/<your-username>/a4-image-arranger.git
+git push -u origin main
